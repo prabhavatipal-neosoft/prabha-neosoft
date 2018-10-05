@@ -1,0 +1,268 @@
+.-------------------------------------------------------------------2/05
+SE Compadvance-spider........................................................https://future.pricerunner.com/project/info.spring?project=104649...............................Done           
+SE DanGuitar-spider...............................................................https://future.pricerunner.com/project/info.spring?project=104661...............................Done
+SE Hitari-spider........................................................................https://future.pricerunner.com/project/file/filelisting.spring?project=104741
+-------------------------------------------------------------------07/05
+SE	John Greed Jewellery-spider...............................https://future.pricerunner.com/project/info.spring?project=104773.............................Done
+Yrkesbutiken-spider................................................................https://future.pricerunner.com/project/info.spring?project=104817..............................Done
+-------------------------------------------------------------------08/05
+Smxsports-Prestashop-spider...............................................https://future.pricerunner.com/project/info.spring?project=104827..............................Done
+KAM Care Design-Jetshop-spider.........................................https://future.pricerunner.com/project/file/filelisting.spring?project=104857..............Done  
+Busmonster-NordiskE-handel PJ-spider..............................https://future.pricerunner.com/project/info.spring?project=104851..............................Done
+Laminera-in-Jetshop-spider....................................................https://future.pricerunner.com/project/info.spring?project=104875.............................Done
+---------------------------------------------------------------09/05
+MwClothing-pricelist...............................................................https://future.pricerunner.com/project/info.spring?project=104883............................Done
+Mikasa-Jetshop-spider............................................................https://future.pricerunner.com/project/file/filelisting.spring?project=104901............Done
+Pepsbutik-Hemsida-spider.....................................................https://future.pricerunner.com/project/file/filelisting.spring?project=104911.............Done
+Selma Musik-Jetshop-spider..................................................https://future.pricerunner.com/project/file/filelisting.spring?project=104931...........Done
+Dekalkit-spider..........................................................................https://future.pricerunner.com/project/info.spring?project=104947...............texttalk
+Paragraffen-spider(R20171205)..............................................https://future.pricerunner.com/project/info.spring?project=89943.............................Done
+----------------------------------------------------------------10/05
+Elmely Design-spider...............................................................https://future.pricerunner.com/project/file/filelisting.spring?project=104955............Done (pre-fetch)
+Bikedesign-spider....................................................................https://future.pricerunner.com/project/info.spring?project=104971............................Done
+Foliepartner-spider..................................................................https://future.pricerunner.com/project/info.spring?project=104973  (no product)
+Jekas-spider..............................................................................https://future.pricerunner.com/project/info.spring?project=104967.............................Done
+----------------------------------------------------------------11/05
+Hairy Bikers Diet Club-spider.................................................https://future.pricerunner.com/project/info.spring?project=104957  (no product)
+Skagenfood-spider...................................................................https://future.pricerunner.com/project/info.spring?project=105013...........................Done
+UnderBoxer-spider...................................................................https://future.pricerunner.com/project/info.spring?project=105023...........................Done
+Aros Speedshop-spider............................................................https://future.pricerunner.com/project/info.spring?project=105017...........................Done (pre-fetch)
+DK	Han Kjøbenhavn-spider..........................................https://future.pricerunner.com/project/info.spring?project=105031...........................Done
+New Happiness-spider.............................................................https://future.pricerunner.com/project/info.spring?project=105047............................Done
+ProBooster-spider....................................................................https://future.pricerunner.com/project/info.spring?project=105049............................Done
+----------------------------------------------------------------15/05
+LegForDig-spider.....................................................................https://future.pricerunner.com/project/info.spring?project=105001.............................Done ( Anguler)                      
+----------------------------------------------------------------16/05
+DK	Liebe-spider............................................................https://future.pricerunner.com/project/info.spring?project=105181............................Done 
+Krestoffer-spider......................................................................https://future.pricerunner.com/project/info.spring?project=105185............................Done
+----------------------------------------------------------------17/05
+torn-living-spider......................................................................https://future.pricerunner.com/project/info.spring?project=105235...........................Done
+Bikedesign-spider....................................................................https://future.pricerunner.com/project/info.spring?project=104971...........................Done
+-------------------------------------------------------------------18/05
+DK	Maxgaver-spider.....................................................https://future.pricerunner.com/project/info.spring?project=105211...........................Done
+InHome-spider...........................................................................https://future.pricerunner.com/project/info.spring?project=105325...........................Done
+SE	KSN Online-spider..................................................https://future.pricerunner.com/project/info.spring?project=105285...........................Done
+Hundetjek-spider.......................................................................https://future.pricerunner.com/project/info.spring?project=105337..........................Done
+Præstbro-spider........................................................................https://future.pricerunner.com/project/testresult.spring?project=105351.................Done
+-------------------------------------------------------------------21/5
+ DK	Lonely planet(auto currency)-spider.....................https://future.pricerunner.com/project/file/filelisting.spring?project=105223..........Done
+Yrkesbutiken-spider(R20180515)............................................https://future.pricerunner.com/project/info.spring?project=104817..........................Done
+SE Alexandra Sports-spider.....................................................https://future.pricerunner.com/project/info.spring?project=105365..........................Done
+-------------------------------------------------------------------24/5
+SE Dimoda-spider(R20180522)................................................https://future.pricerunner.com/project/info.spring?project=103375.........................Done
+Luxvuf-spider.............................................................................https://future.pricerunner.com/project/info.spring?project=105571........................Done
+SE WIXBUY-spider(autoCurrency)..........................................https://future.pricerunner.com/project/info.spring?project=100113........................Done
+-------------------------------------------------------------------25/5
+DK	Roligan-spider.........................................................https://future.pricerunner.com/project/testresult.spring?project=105607..............Done
+Paragraffen-spider(R20171205)..............................................https://future.pricerunner.com/project/info.spring?project=89943..........................Done
+Holbech-shop-spider...............................................................https://future.pricerunner.com/project/file/filelisting.spring?project=105617........Done
+DonPipe-spider.........................................................................https://future.pricerunner.com/project/testresult.spring?project=105659.............Done
+My Living-spider........................................................................https://future.pricerunner.com/project/info.spring?project=105647......................Done
+-------------------------------------------------------------------28/05
+SE	Voltsam-spider.........................................................https://future.pricerunner.com/project/testresult.spring?project=105681.............Done
+SE About a horse-spider..........................................................https://future.pricerunner.com/project/info.spring?project=105707.......................Done
+Babypotte-spider......................................................................https://future.pricerunner.com/project/info.spring?project=105737.......................Done
+Jonsen-spider...........................................................................https://future.pricerunner.com/project/info.spring?project=105723.......................Done
+SE	Base-spider.............................................................https://future.pricerunner.com/project/info.spring?project=105685.......................Done
+-------------------------------------------------------------------29/05
+Jydepotten-spider....................................................................https://future.pricerunner.com/project/info.spring?project=105797......................Done
+Kastanielys-spider...................................................................https://future.pricerunner.com/project/info.spring?project=105805.......................Done
+Guldsmed-norup-spider.........................................................https://future.pricerunner.com/project/info.spring?project=105743.......................Done
+Ketcher mesteren-spider.......................................................https://future.pricerunner.com/project/info.spring?project=105641.......................Done
+---------------------------------------------------------------------30/5
+Moss Copenhagen-spider.....................................................https://future.pricerunner.com/project/info.spring?project=105897.......................Done
+---------------------------------------------------------------------31/5.
+Native North-spider................................................................https://future.pricerunner.com/project/info.spring?project=105917........................Done
+Coast Webshop-spider...........................................................https://future.pricerunner.com/project/info.spring?project=105839........................Done
+Askepotsko-spider..................................................................https://future.pricerunner.com/project/info.spring?project=105953........................Done
+BB Hobby-spider.....................................................................https://future.pricerunner.com/project/info.spring?project=105963........................Done
+---------------------------------------------------------------------1/06
+Fru Pigalopp-spider................................................................https://future.pricerunner.com/project/info.spring?project=105225........................Done( Anguler)
+DK	Maxgaver-spider(r20180529)...............................https://future.pricerunner.com/project/info.spring?project=105211........................Done
+BB Hobby-spider.....................................................................https://future.pricerunner.com/project/info.spring?project=105963........................Done
+SE	Seaside Bike-spider..............................................https://future.pricerunner.com/project/info.spring?project=105981........................Done
+SE	Phonecare-spider..................................................https://future.pricerunner.com/project/info.spring?project=105989........................Done
+UK	Ogormans-spider...................................................https://future.pricerunner.com/project/info.spring?project=106023........................Done
+SE Selfridges-spider...............................................................https://future.pricerunner.com/project/info.spring?project=103281........................Done
+---------------------------------------------------------------------04/06
+UK	Ogormans-spider...................................................https://future.pricerunner.com/project/info.spring?project=106023........................Done
+DK	Hjemhavn-spider....................................................https://future.pricerunner.com/project/info.spring?project=105949........................Done
+UK	Hardys of kilkeel-spider.........................................https://future.pricerunner.com/project/info.spring?project=106019........................Done
+Runnur-spider..........................................................................https://future.pricerunner.com/project/info.spring?project=106063........................Done
+UK	Provisuals.com-spider..........................................https://future.pricerunner.com/project/info.spring?project=106053........................Done
+---------------------------------------------------------------------05/06
+Hills Radio-spider (V2017)......................................................https://future.pricerunner.com/project/info.spring?project=64999...........................Done
+Radiocraft-spider(R)...............................................................https://future.pricerunner.com/project/info.spring?project=81857...........................Done
+---------------------------------------------------------------------06/06
+Guns&Gents-spider...............................................................https://future.pricerunner.com/project/info.spring?project=106047...........................Done[sub cate to main cat dubly product]
+UK	Kuick Buy-spider..................................................https://future.pricerunner.com/project/info.spring?project=106099...........................Done[create URL]
+---------------------------------------------------------------------12/06
+UK	Kent Wholesale Appliances-spider....................https://future.pricerunner.com/project/info.spring?project=106165...........................Done
+Electrical_Discount_UK - MSKU-PRID-spider...................https://future.pricerunner.com/project/info.spring?project=106177...........................Done
+--------------------------------------------------------------------21/06
+SE Bachmans-spide...............................................................http://future.pricerunner.com/project/info.spring?project=106297............................Done
+Victoria's Secret-spider.........................................................http://future.pricerunner.com/project/info.spring?project=106299............................Done
+----------------------------------------------------------------------------------22/06
+ 2
+----------------------------------------------------------------------------------25/06 
+http://future.pricerunner.com/project/info.spring?project=106330                      Bedtime Flirt-spider                                                                     Done
+http://future.pricerunner.com/project/info.spring?project=106332                      bella di note-spider                                                                      Done
+http://future.pricerunner.com/project/info.spring?project=106362                      Capital Gardens-spider                                                               Done
+----------------------------------------------------------------------------------25/06 
+Boardwise UK-spider...........................................................https://future.pricerunner.com/project/info.spring?project=106348............................Done
+Brands Village-spider...........................................................http://future.pricerunner.com/project/info.spring?project=106353..............................Done
+Chest Freezers Direct-spider.............................................http://future.pricerunner.com/project/info.spring?project=106389..............................Done
+------------------------------------------------------------------------------------05/07
+DJ Premium-spider..............................................................http://future.pricerunner.com/project/file/filelisting.spring?project=106477...............Done   
+Ecig Delivered-spider,........................................................http://future.pricerunner.com/project/info.spring?project=106480...............................Done
+------------------------------------------------------------------------------------06/07
+New Happiness-spider(r20180625)....................................https://future.pricerunner.com/project/info.spring?project=105047............................Done
+------------------------------------------------------------------------------------18/07
+SE Hitari-spider.....................................................................http://future.pricerunner.com/project/info.spring?project=104741.............................Done
+UK Fushi-spider....................................................................http://future.pricerunner.com/project/info.spring?project=106669.............................Done
+Flowers for funerals-spider.................................................http://future.pricerunner.com/project/info.spring?project=106678............................Done
+SE	Actionsportstore-dump......................................http://future.pricerunner.com/project/info.spring?project=106679............................Done
+Always Personal-spider.......................................................http://future.pricerunner.com/project/info.spring?project=106363............................Done
+
+
+Castlegate Lights-spider.....................................................http://future.pricerunner.com/project/info.spring?project=106371............................Done
+------------------------------------------------------------------------------------19/07
+SE	Wentzels Hobby-spider......................................http://future.pricerunner.com/project/info.spring?project=106676............................Done
+SE	Byggnadsvård-dump..........................................http://future.pricerunner.com/project/info.spring?project=106724............................Done[textalk]
+--------------------------------------------------------------------------------------20/07
+UK First Furniture-spider....................................................http://future.pricerunner.com/project/info.spring?project=106698............................Done
+Frmoda-spider.......................................................................http://future.pricerunner.com/project/info.spring?project=106674............................Done
+
+Electric Radiators Direct-spider.........................................http://future.pricerunner.com/project/info.spring?project=106503............................Done
+--------------------------------------------------------------------------------------23/07
+Brantano-spider...................................................................http://future.pricerunner.com/project/info.spring?project=106408............................Done
+FAB Appliances-spider........................................................http://future.pricerunner.com/project/info.spring?project=106719.............................Done 
+Dekalkit-dump......................................................................http://future.pricerunner.com/project/info.spring?project=106743.............................Done [textalk]
+Evergame UK-spider...........................................................http://future.pricerunner.com/project/info.spring?project=106718.............................Done
+
+Beanbone-spider................................................................http://future.pricerunner.com/project/info.spring?project=106326.............................Done
+--------------------------------------------------------------------------------------24/07
+Ghost bikes-spider(error#6)..............................................http://future.pricerunner.com/project/info.spring?project=106682.............................Done
+
+ETERNA UK-spider.............................................................http://future.pricerunner.com/project/info.spring?project=106711.............................Done
+--------------------------------------------------------------------------------------25/07
+SE	Simma-dump......................................................http://future.pricerunner.com/project/info.spring?project=103141.............................Done
+
+Dr Jays-spider.....................................................................http://future.pricerunner.com/project/file/filelisting.spring?project=106479.............Done
+-------------------------------------------------------------------------------------------31/07
+Gorgeous Couture-spider...................................................http://future.pricerunner.com/project/info.spring?project=106797.............................Done
+Intro Clothing-spider............................................................http://future.pricerunner.com/project/info.spring?project=106800.............................Done
+
+johngreeddesign-spider......................................................http://future.pricerunner.com/project/info.spring?project=106796.............................Done
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------                                                                                                                                                                AUGEST
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------01/08
+Jelly Egg-spider.................................................................http://future.pricerunner.com/project/info.spring?project=106816.............................Done
+GSMnation-spider..............................................................http://future.pricerunner.com/project/info.spring?project=106817.............................Done [next page ]
+Great British Meat-spider..................................................http://future.pricerunner.com/project/info.spring?project=106829.............................Done
+
+Goodwin Smith-spider......................................................http://future.pricerunner.com/project/info.spring?project=106820.............................Done
+I like beds-spider...............................................................http://future.pricerunner.com/project/info.spring?project=106833.............................Done
+--------------------------------------------------------------------------------------------02/08
+
+HotFuel-spider..................................................................http://future.pricerunner.com/project/info.spring?project=106838.............................Done
+Home4eco-spider.............................................................http://future.pricerunner.com/project/info.spring?project=106810.............................Done
+---------------------------------------------------------------------------------------------07/08
+Leather Sofa World-spider...............................................http://future.pricerunner.com/project/info.spring?project=106884.............................Done
+Me + Em-spider................................................................http://future.pricerunner.com/project/info.spring?project=106900.............................Done
+King & McGaw-spider.......................................................http://future.pricerunner.com/project/info.spring?project=106869.............................Done
+---------------------------------------------------------------------------------------------08/08               
+UK Lindy Bop-spider.......................................................http://future.pricerunner.com/project/info.spring?project=106868.............................Done
+---------------------------------------------------------------------------------------------13/08   
+DK	Roligan-spider.................................................http://future.pricerunner.com/project/info.spring?project=105607...............................Done     
+---------------------------------------------------------------------------------------------16/08   
+
+OKcigs-spider..................................................................http://future.pricerunner.com/project/info.spring?project=107021...............................Done 
+---------------------------------------------------------------------------------------------17/08
+Missy Empire-spider........................................................http://future.pricerunner.com/project/info.spring?project=106942...............................Done
+Nife is Life-spider............................................................http://future.pricerunner.com/project/info.spring?project=107038...............................Done
+
+Morale Garden Furniture-spider......................................http://future.pricerunner.com/project/info.spring?project=107034...............................Done [breadcum category] and [delivery]
+---------------------------------------------------------------------------------------------20/08
+UK StyleCreep-spider......................................................http://future.pricerunner.com/project/info.spring?project=107087...............................Done
+---------------------------------------------------------------------------------------------21/08
+UK Salcura-spider............................................................http://future.pricerunner.com/project/info.spring?project=107091...............................Done
+---------------------------------------------------------------------------------------------22/08
+UK Perfect4U Fashion-spider............................................http://future.pricerunner.com/project/info.spring?project=107113...............................Done
+UK Sodastream-spider......................................................http://future.pricerunner.com/project/info.spring?project=107124...............................Done
+UK West Country Fires-spider...........................................http://future.pricerunner.com/project/info.spring?project=107141...............................Done
+UK Ted Williams-spider....................................................http://future.pricerunner.com/project/info.spring?project=107142...............................Done
+UK Tia Tights-spider.........................................................http://future.pricerunner.com/project/info.spring?project=107146...............................Done
+-----------------------------------------------------------------------------------------------------23/08
+UK Wellbeing Network-spider..........................................http://future.pricerunner.com/project/info.spring?project=107162...............................Done
+UK Steiff Teddy Bears-spider............................................http://future.pricerunner.com/project/info.spring?project=107136...............................Done
+UK Celtic & Co-spider.......................................................http://future.pricerunner.com/project/info.spring?project=107185...............................Done
+UK Sherwood Lighting-spider..........................................http://future.pricerunner.com/project/info.spring?project=107107...............................Done
+UK Wrappz-spider............................................................http://future.pricerunner.com/project/info.spring?project=107182...............................Done
+UK Perfumes Club-spider.................................................http://future.pricerunner.com/project/info.spring?project=107120...............................Done
+----------------------------------------------------------------------------------------------------24/08
+UK Utility Design-spider....................................................http://future.pricerunner.com/project/info.spring?project=107165...............................Done
+UK The Carr and Westley-spider......................................http://future.pricerunner.com/project/info.spring?project=107190...............................Done
+UK Trade Fix Direct-spider...............................................http://future.pricerunner.com/project/info.spring?project=107198...............................Done
+
+UK Plan Rack Systems-spider..........................................http://future.pricerunner.com/project/info.spring?project=107114...............................Done
+------------------------------------------------------------------------------------------------------27/08
+UK The Printer Toner Company-spider............................http://future.pricerunner.com/project/info.spring?project=107212...............................Done
+------------------------------------------------------------------------------------------------------28/08
+UK Party Superstore-spider............................................http://future.pricerunner.com/project/info.spring?project=107230...............................Done
+UK xTWOstore-spider.....................................................http://future.pricerunner.com/project/info.spring?project=107154...............................Done[price comming from network]
+UK Slane Cycles-spider..................................................http://future.pricerunner.com/project/info.spring?project=107214...............................Done
+------------------------------------------------------------------------------------------------------29/08
+UK Pluck Point-spider.....................................................http://future.pricerunner.com/project/info.spring?project=107085...............................Done[next page]
+Electric Radiators Direct-spider......................................http://future.pricerunner.com/project/info.spring?project=106503...............................Done[range]
+UK The Beauty Booth-spider..........................................http://future.pricerunner.com/project/info.spring?project=107184...............................Done
+Oxygen Clothing-spider.................................................http://future.pricerunner.com/project/info.spring?project=106960...............................Done[next page]
+------------------------------------------------------------------------------------------------------31/08
+SE	Guldsmed-Smeds-spider...............................http://future.pricerunner.com/project/info.spring?project=107274...............................Done
+SE Edblad-spider...........................................................http://future.pricerunner.com/project/info.spring?project=107281...............................Done
+SE	iSmykker-spider............................................http://future.pricerunner.com/project/info.spring?project=107282...............................Done
+SE Tiny World-spider....................................................http://future.pricerunner.com/project/info.spring?project=107283...............................Done
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------                                                                                                                                                                September
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------03/09
+SE	Spendser-spider............................................http://future.pricerunner.com/project/info.spring?project=107297...............................Done
+SE Capella-spider.........................................................http://future.pricerunner.com/project/info.spring?project=107285...............................Done
+Out of the City-spider....................................................http://future.pricerunner.com/project/info.spring?project=106961...............................Done
+SE	Guld og Diamanter-spider.............................http://future.pricerunner.com/project/info.spring?project=107305...............................Done  ------------------------------------------------------------------------------------------------------06/09
+SE	Gysinge-spider----------------------------------------------http://future.pricerunner.com/project/info.spring?project=107262...............................Done
+SE	Ludo Cortex-spider........................................http://future.pricerunner.com/project/info.spring?project=107376...............................Done
+SE Beredskapskungen-spider........................................http://future.pricerunner.com/project/info.spring?project=107381...............................Done
+------------------------------------------------------------------------------------------------------11/09
+
+SE	Green Knight Games-spider..........................https://future.pricerunner.com/project/info.spring?project=107413...............................Done
+Spraytana-spider...........................................................https://future.pricerunner.com/project/info.spring?project=107422...............................Done
+SE Ztatus-spider.............................................................http://future.pricerunner.com/project/info.spring?project=107431...............................Done
+------------------------------------------------------------------------------------------------------12/09
+Fitness Footwear-spider................................................http://future.pricerunner.com/project/info.spring?project=106691...............................Done
+SE	GamesQuest-spider.......................................http://future.pricerunner.com/project/info.spring?project=107392...............................Done
+------------------------------------------------------------------------------------------------------14/09
+DK	Mrmaria-spider.............................................http://future.pricerunner.com/project/info.spring?project=107471...............................Done
+------------------------------------------------------------------------------------------------------17/09
+SE	Hemmafrisoren-spider..................................http://future.pricerunner.com/project/info.spring?project=107478...............................Done
+DK	Supreme-spider............................................http://future.pricerunner.com/project/info.spring?project=107475...............................Done
+--------------------------------------------------------------------------------------------------------25/09
+SE Annova-spider
+--------------------------------------------------------------------------------------------------------26/09
+DK Designmonster-spider(Auto-currency)....................http://future.pricerunner.com/project/info.spring?project=107647........................Done
+DK Tailorist-spider.......................................................http://future.pricerunner.com/project/info.spring?project=107631.................................Done
+--------------------------------------------------------------------------------------------------------27/09
+
+SE OK Elektriske-spider.............................................http://future.pricerunner.com/project/info.spring?project=107632.................................Done
+--------------------------------------------------------------------------------------------------------28/09
+Airstrike-dump (SE)....................................................http://future.pricerunner.com/project/info.spring?project=107730.................................Done[textalk]
+Lamportillallt-dump....................................................http://future.pricerunner.com/project/info.spring?project=107725.................................Done[textalk]
+--------------------------------------------------------------------------------------------------------01/10
+SE Econordica-dump.................................................http://future.pricerunner.com/project/info.spring?project=107731.................................Done[textalk]
+DK DeLife-spider.........................................................http://future.pricerunner.com/project/info.spring?project=107650.................................Done[next page size]
+DK Klebefieber-spider...............................................http://future.pricerunner.com/project/info.spring?project=107715.................................Done
+Bonnybonny-spider....................................................http://future.pricerunner.com/project/info.spring?project=107736.................................Done
+SE Nordicfynd-spider.................................................http://future.pricerunner.com/project/info.spring?project=107679.................................Done
+--------------------------------------------------------------------------------------------------------04/10
+UK ROK-spider............................................................https://future.pricerunner.com/project/info.spring?project=107767.................................Done
+
+
+
